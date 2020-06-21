@@ -11,6 +11,7 @@ echo color("blue"," [♡] MAKLUM LAH NAMANYA JUGA SC GRATISAN \n");
 echo color("purple"," [♥] SCRIPT INI GRATIS, BILA ADA YG JUAL CHAT TELEGRAM \n");
 echo color("green","# # # # # # # # # # # # # # # # # # # # # # # \n");
 	echo "\n";
+ulang:
 // function change(){
         $nama = nama();
         $email = str_replace(" ", "", $nama) . mt_rand(100, 999);
